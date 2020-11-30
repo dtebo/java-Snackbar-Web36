@@ -161,23 +161,23 @@ Create the classes mentioned above and then instantiate these objects from those
 * [x] VendingMachine
 * [x] Customer
 
-* [ ] Instantiate 2 customers
-  * [ ] Jane with $45.25
-  * [ ] Bob with $33.14
+* [x] Instantiate 2 customers
+  * [x] Jane with $45.25
+  * [x] Bob with $33.14
 
-* [ ] Instantiate 3 Vending Machines
-  * [ ] Food
-  * [ ] Drink
-  * [ ] Office
+* [x] Instantiate 3 Vending Machines
+  * [x] Food
+  * [x] Drink
+  * [x] Office
 
-* [ ] Instantiate 5 snacks
-  * [ ] In Vending Machine Food
-    * [ ] 36 Chips at $1.75
-    * [ ] 36 Chocolate Bar at $1.00
-    * [ ] 30 Pretzel at $2.00
-  * [ ] In Vending Machine Drink
-    * [ ] 24 Soda at $2.50
-    * [ ] 20 Water at $2.75
+* [x] Instantiate 5 snacks
+  * [x] In Vending Machine Food
+    * [x] 36 Chips at $1.75
+    * [x] 36 Chocolate Bar at $1.00
+    * [x] 30 Pretzel at $2.00
+  * [x] In Vending Machine Drink
+    * [x] 24 Soda at $2.50
+    * [x] 20 Water at $2.75
 
 ### Processing
 
