@@ -159,7 +159,7 @@ Create the classes mentioned above and then instantiate these objects from those
 
 * [x] Snack
 * [x] VendingMachine
-* [ ] Customer
+* [x] Customer
 
 * [ ] Instantiate 2 customers
   * [ ] Jane with $45.25
